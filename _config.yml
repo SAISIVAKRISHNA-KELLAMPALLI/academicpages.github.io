@@ -11,17 +11,17 @@ locale                   : "en-US"
 title                    : "Sai Siva Krishna's Homepage/ Site Title"
 title_separator          : "-"
 name                     : &name "Sai Siva Krishna Kellampalli"
-description              : &description "Machine Learning enthusiast"
-url                      : https://saisivakrishna.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
-repository               : "SAISIVAKRISHNA-KELLAMPALLI/academicpages.github.io"
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   name             : "SAI SIVA KRISHNA KELLAMPALLI"
   pronouns         : "he/him"  
   bio              : "4th year student"
@@ -44,7 +44,7 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "academicpages"
-  kaggle           : "saisivakrishnak" 
+  kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
@@ -129,7 +129,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : kellampalli_
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
