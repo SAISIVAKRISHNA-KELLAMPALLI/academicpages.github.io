@@ -11,8 +11,8 @@ locale                   : "en-US"
 title                    : "Sai Siva Krishna's Homepage/ Site Title"
 title_separator          : "-"
 name                     : &name "Sai Siva Krishna Kellampalli"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Machine Learning enthusiast"
+url                      : https://saisivakrishna.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "SAI SIVA KRISHNA KELLAMPALLI"
   pronouns         : "he/him"  
   bio              : "4th year student"
@@ -129,7 +129,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : kellampalli_
 facebook:
   username               :
   app_id                 :
